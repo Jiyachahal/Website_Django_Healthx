@@ -43,7 +43,7 @@ With a simple and user-friendly interface, HealthX allows users to calculate the
    ```bash
    pip install -r requirements.txt
 
-1. ****
+1. **Run Project**
    ```bash
    python manage.py runserver
 
