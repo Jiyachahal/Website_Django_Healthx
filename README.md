@@ -34,3 +34,17 @@ With a simple and user-friendly interface, HealthX allows users to calculate the
    ```bash
    git clone https://github.com/yourusername/healthx.git
    cd healthx
+1. **Create virtual environment:**
+   ```bash
+   python -m venv env
+   source env/bin/activate  # On Windows: env\Scripts\activate
+
+1. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+1. ****
+   ```bash
+   python manage.py runserver
+
+
